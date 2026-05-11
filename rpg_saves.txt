@@ -1,0 +1,10 @@
+1;1;84;120;15;10;1;0;Guerreiro;38;50;100;null;null;null;1;0;null
+2;ARW;120;120;15;10;1;0;Guerreiro;50;50;100;null;null;null;1;0;null
+3;Mago;100;100;30;8;2;0;Mago;60;60;150;null;null;null;3;2;Poção de Cura
+4;Definitivo;8;140;20;13;2;23;Guerreiro;60;60;161;Espada Longa;null;null;3;2;Poção de Cura|Poção de Mana|Espada Longa
+5;thomaz;120;120;15;10;1;0;Guerreiro;50;50;100;null;null;null;1;0;Poção de Cura|Poção de Mana|Espada Longa
+6;2;100;100;18;7;1;0;Ladino;50;50;100;null;null;null;1;0;null
+7;thomaz;43;80;25;5;1;40;Mago;5;50;120;null;null;null;2;1;Poção de Cura|Poção de Mana|Espada Longa|Poção de Mana
+8;MoisesGay;28;120;15;10;1;80;Guerreiro;50;50;140;null;null;null;2;1;Poção de Mana
+9;moises;34;120;35;11;3;137;Mago;55;70;318;null;null;null;6;5;Poção de Cura|Poção de Mana|Espada Longa|Poção de Cura|Anel de Poder|Poção de Mana|Poção de Mana
+10;Thomaz;100;100;30;8;2;30;Mago;60;60;45;null;null;null;3;2;Poção de Mana|Espada Longa|Cajado Mágico

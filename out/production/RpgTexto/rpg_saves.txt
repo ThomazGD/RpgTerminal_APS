@@ -1,0 +1,5 @@
+1;1;120;120;15;10;1;0;Guerreiro;50;50;100;null;null;null;1;0;null
+2;ARW;120;120;15;10;1;0;Guerreiro;50;50;100;null;null;null;1;0;null
+3;Mago;80;80;25;5;1;0;Mago;50;50;100;null;null;null;1;0;null
+4;Definitivo;8;140;20;13;2;23;Guerreiro;60;60;161;Espada Longa;null;null;3;2;Poção de Cura|Poção de Mana|Espada Longa
+5;thomaz;120;120;15;10;1;0;Guerreiro;50;50;100;null;null;null;1;0;Poção de Cura|Poção de Mana|Espada Longa
